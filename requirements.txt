@@ -1,0 +1,30 @@
+# Core
+torch==2.1.0
+torchvision==0.16.0
+tensorflow==2.13.0
+numpy
+pandas
+scikit-learn
+
+# HuggingFace Transformers and CLIP
+transformers==4.37.2
+sentencepiece
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+
+# COCO and Image Handling
+Pillow
+opencv-python
+
+# Tokenization and Preprocessing
+nltk
+scipy
+
+# Plotting
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
