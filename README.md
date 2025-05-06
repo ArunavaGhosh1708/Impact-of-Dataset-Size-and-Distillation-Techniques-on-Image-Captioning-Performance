@@ -53,6 +53,6 @@ We assess captioning quality using:
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/image-captioning-distillation.git
-cd image-captioning-distillation
+git clone https://github.com/ArunavaGhosh1708/Impact-of-Dataset-Size-and-Distillation-Techniques-on-Image-Captioning-Performance.git
+cd Impact-of-Dataset-Size-and-Distillation-Techniques-on-Image-Captioning-Performance
 pip install -r requirements.txt
