@@ -37,8 +37,6 @@ We assess captioning quality using:
 - **Training Time (iterations/sec)**
 ![download](https://github.com/user-attachments/assets/f21c3f4d-92ee-4233-8ad4-888a99daf915)
 ![graph2](https://github.com/user-attachments/assets/15f0c3ba-fe1d-4c91-8626-aa14b162c7ea)
-<img width="495" alt="loss" src="https://github.com/user-attachments/assets/14855810-9e12-4350-810e-2132115004b1" />
-
 
 ## Key Findings
 
