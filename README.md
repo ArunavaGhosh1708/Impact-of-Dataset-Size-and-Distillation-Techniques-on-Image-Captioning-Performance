@@ -9,6 +9,7 @@ Training deep learning models for image captioning typically requires massive da
 ## Dataset
 
 We use a 5K subset of the [MSCOCO 2017 validation set](https://cocodataset.org/#download), where each image is annotated with 5 human-written captions. Images are resized to 224×224 pixels, and captions are tokenized and padded to a max length of 32 tokens.
+![gpt](https://github.com/user-attachments/assets/caa44e2a-fc1e-4e1f-a44b-acabb678217b)
 
 ## Experiments
 
@@ -35,6 +36,8 @@ We assess captioning quality using:
 - **CIDEr**
 - **Training Time (iterations/sec)**
 ![download](https://github.com/user-attachments/assets/f21c3f4d-92ee-4233-8ad4-888a99daf915)
+![graph2](https://github.com/user-attachments/assets/15f0c3ba-fe1d-4c91-8626-aa14b162c7ea)
+<img width="495" alt="loss" src="https://github.com/user-attachments/assets/14855810-9e12-4350-810e-2132115004b1" />
 
 
 ## Key Findings
