@@ -34,6 +34,8 @@ We assess captioning quality using:
 - **BLEU-1 to BLEU-4**
 - **CIDEr**
 - **Training Time (iterations/sec)**
+![download](https://github.com/user-attachments/assets/f21c3f4d-92ee-4233-8ad4-888a99daf915)
+
 
 ## Key Findings
 
