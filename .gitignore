@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.so
+
+.ipynb_checkpoints/
+
+*.ckpt
+*.pth
+*.h5
+*.pt
+
+# Dataset / cache files
+*.zip
+*.tar
+*.gz
+*.npz
+*.npy
+*.cache/
+coco_annotations/
+*.pkl
+
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Logs and outputs
+*.log
+*.out
+
